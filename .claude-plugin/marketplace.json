@@ -1,0 +1,21 @@
+{
+    "name": "altraweb-laravel",
+    "owner": {
+        "name": "altraWeb",
+        "email": "altrano@quickline.ch"
+    },
+    "metadata": {
+        "description": "Laravel-specific Claude Code plugin family — pick your stack: laravel-livewire-superpowers (Livewire 4 + Flux Pro v2) or the upcoming laravel-vue-superpowers (Vue 3 + Inertia).",
+        "version": "1.0.0"
+    },
+    "plugins": [
+        {
+            "name": "laravel-livewire-superpowers",
+            "source": "github:altraWeb/laravel-livewire-superpowers",
+            "description": "Laravel + Livewire 4 + Flux Pro v2 + Pest 4 specialist toolkit: 10 agents, 7 skills, 13 hooks, 3 slash commands. Full Pilot 2.0 contract enforcement.",
+            "version": "3.0.0-alpha.1",
+            "keywords": ["laravel", "livewire", "flux-pro", "pest", "php", "tdd", "workflow", "code-review", "agents", "hooks"],
+            "category": "productivity"
+        }
+    ]
+}
