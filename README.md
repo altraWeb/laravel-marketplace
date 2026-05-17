@@ -11,19 +11,23 @@ Neutral host repo for the `laravel-{stack}-superpowers` Claude Code plugin famil
 
 ## Install
 
-```bash
-claude /plugin marketplace add altraWeb/laravel-marketplace
+Inside a running Claude Code session (not from your shell — these are slash commands), run:
+
+```
+/plugin marketplace add altraWeb/laravel-marketplace
 ```
 
 Then install whichever variant matches your stack:
 
-```bash
+```
 # Livewire stack
-claude /plugin install laravel-livewire-superpowers@altraweb-laravel
+/plugin install laravel-livewire-superpowers@altraweb-laravel
 
 # Vue stack
-claude /plugin install laravel-vue-superpowers@altraweb-laravel
+/plugin install laravel-vue-superpowers@altraweb-laravel
 ```
+
+> **Note:** Slash commands run inside Claude Code — do NOT prefix with `claude` from bash. The `claude` CLI does not accept `/plugin` commands directly.
 
 ## Why a separate marketplace repo?
 
