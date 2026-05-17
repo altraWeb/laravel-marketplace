@@ -5,7 +5,7 @@
         "email": "altrano@quickline.ch"
     },
     "metadata": {
-        "description": "Laravel-specific Claude Code plugin family — pick your stack: laravel-livewire-superpowers (Livewire 4 + Flux Pro v2) or laravel-vue-superpowers (Vue 3 + Inertia v3 + Reka UI + Tailwind 4).",
+        "description": "Laravel-specific Claude Code plugin family \u2014 pick your stack: laravel-livewire-superpowers (Livewire 4 + Flux Pro v2) or laravel-vue-superpowers (Vue 3 + Inertia v3 + Reka UI + Tailwind 4).",
         "version": "1.2.0"
     },
     "plugins": [
@@ -14,15 +14,42 @@
             "source": "github:altraWeb/laravel-livewire-superpowers",
             "description": "Laravel + Livewire 4 + Flux Pro v2 + Pest 4 specialist toolkit: 10 agents, 7 skills, 12 hooks, 3 slash commands. Full Pilot 2.0 contract enforcement.",
             "version": "3.0.0",
-            "keywords": ["laravel", "livewire", "flux-pro", "pest", "php", "tdd", "workflow", "code-review", "agents", "hooks"],
+            "keywords": [
+                "laravel",
+                "livewire",
+                "flux-pro",
+                "pest",
+                "php",
+                "tdd",
+                "workflow",
+                "code-review",
+                "agents",
+                "hooks"
+            ],
             "category": "productivity"
         },
         {
             "name": "laravel-vue-superpowers",
             "source": "github:altraWeb/laravel-vue-superpowers",
-            "description": "Laravel + Vue 3 (Composition API) + Inertia v3 + Reka UI + Tailwind CSS 4 + Pest 4 specialist toolkit. Alpha — Phase A (identity rename) shipped; content adaptation in Phases B-E. Functional from v1.0.0-alpha.2 onwards.",
-            "version": "1.0.0-alpha.1",
-            "keywords": ["laravel", "vue", "vue3", "inertia", "inertia-v3", "reka-ui", "tailwind", "pest", "php", "tdd", "workflow", "code-review", "agents", "hooks", "specialist-agents"],
+            "description": "Laravel + Vue 3 (Composition API) + Inertia v3 + Reka UI + Tailwind CSS 4 + Pest 4 specialist toolkit. Alpha \u2014 Phase A (identity rename) shipped; content adaptation in Phases B-E. Functional from v1.0.0-alpha.2 onwards.",
+            "version": "1.0.0-alpha.2",
+            "keywords": [
+                "laravel",
+                "vue",
+                "vue3",
+                "inertia",
+                "inertia-v3",
+                "reka-ui",
+                "tailwind",
+                "pest",
+                "php",
+                "tdd",
+                "workflow",
+                "code-review",
+                "agents",
+                "hooks",
+                "specialist-agents"
+            ],
             "category": "productivity"
         }
     ]
