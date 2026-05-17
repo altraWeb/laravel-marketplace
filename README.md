@@ -6,19 +6,22 @@ Neutral host repo for the `laravel-{stack}-superpowers` Claude Code plugin famil
 
 | Plugin | Stack | Status |
 |---|---|---|
-| `laravel-livewire-superpowers` | Laravel + Livewire 4 + Flux Pro v2 + Pest 4 | Released (v3.0.0-alpha.1+) |
-| `laravel-vue-superpowers` | Laravel + Vue 3 (Composition API) + Inertia v2 + Pest 4 | Planned |
+| `laravel-livewire-superpowers` | Laravel + Livewire 4 + Flux Pro v2 + Pest 4 | Released (v3.0.0+) |
+| `laravel-vue-superpowers` | Laravel + Vue 3 (Composition API) + Inertia v3 + Reka UI + Tailwind 4 + Pest 4 | Alpha (v1.0.0-alpha.1) |
 
 ## Install
 
 ```bash
 claude /plugin marketplace add altraWeb/laravel-marketplace
-claude /plugin install laravel-livewire-superpowers@altraweb-laravel
 ```
 
-For the Vue variant when it ships:
+Then install whichever variant matches your stack:
 
 ```bash
+# Livewire stack
+claude /plugin install laravel-livewire-superpowers@altraweb-laravel
+
+# Vue stack (alpha — Phase A identity rename only; content adaptation in Phases B-E)
 claude /plugin install laravel-vue-superpowers@altraweb-laravel
 ```
 
