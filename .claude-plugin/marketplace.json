@@ -32,7 +32,7 @@
             "name": "laravel-vue-superpowers",
             "source": "github:altraWeb/laravel-vue-superpowers",
             "description": "Laravel + Vue 3 (Composition API) + Inertia v3 + Reka UI + Tailwind CSS 4 + Pest 4 specialist toolkit. Alpha \u2014 Phase A (identity rename) shipped; content adaptation in Phases B-E. Functional from v1.0.0-alpha.2 onwards.",
-            "version": "1.0.0-alpha.2",
+            "version": "1.0.0-alpha.3",
             "keywords": [
                 "laravel",
                 "vue",
