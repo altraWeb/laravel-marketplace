@@ -27,7 +27,7 @@
                 "url": "https://github.com/altraWeb/laravel-vue-superpowers.git"
             },
             "description": "Laravel + Vue 3 (Composition API) + Inertia v3 + Reka UI + Tailwind CSS 4 + Pest 4 + Scout/Meilisearch specialist toolkit: 10 specialist agents, 7 stack-enhanced skills, 13 enforcement & context hooks, 1 slash command. Every specialist verifies APIs against the installed vendor/ (or node_modules/) source — ground truth, not docs.",
-            "version": "2.0.1",
+            "version": "2.0.2",
             "keywords": ["laravel", "vue", "vue3", "inertia", "inertia-v3", "reka-ui", "tailwind", "pest", "scout", "meilisearch", "php", "tdd", "workflow", "code-review", "agents", "hooks", "specialist-agents"],
             "category": "productivity"
         }
